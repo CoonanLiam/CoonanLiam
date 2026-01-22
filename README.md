@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [frontend-learning](https://github.com/CoonanLiam/frontend-learning)
 
-- 🌱 I’m currently learning **Frontend Development, as well as general Full Stack Development**
+- 🌱 I’m currently learning **Frontend, as well as general Full Stack Development**
 
 
 <h3 align="left">Connect with me:</h3>
